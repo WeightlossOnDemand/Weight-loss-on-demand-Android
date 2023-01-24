@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weight Loss On Demand</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">(AIzaSyAiqhLD_Nn0T9sN27UEXKZvC4s8vHr3jow)</string>
+    <string name="default_notification_channel_id">channel-id-1</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "821452727010",
+    "project_id": "weightlossondemand-8ce8e",
+    "storage_bucket": "weightlossondemand-8ce8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821452727010:android:7b1350dac41256579bb4bb",
+        "android_client_info": {
+          "package_name": "com.weightlossondemand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821452727010-l81k6tej1jqh5vpmtonrakckvje7mtgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPstjI5kVhYa2RE3uI0SpX53Uwne3pxtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821452727010-l81k6tej1jqh5vpmtonrakckvje7mtgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
